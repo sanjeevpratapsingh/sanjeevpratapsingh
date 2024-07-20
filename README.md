@@ -1,4 +1,9 @@
-## Hi there 👋
+### Sanjeev Pratap Singh 👋
+
+🔭 I’m currently working as a Freelancer.
+🌱 I’m currently learning Full Stack Development.
+
+⚡ Fun Fact:
 
 <!--
 **sanjeevpratapsingh/sanjeevpratapsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
