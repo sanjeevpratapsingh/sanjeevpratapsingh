@@ -1,6 +1,6 @@
 ### Sanjeev Pratap Singh 👋
 
-🔭 I’m currently working as a Freelancer.
+🔭 I’m currently working as a Freelancer. <br />
 🌱 I’m currently learning Full Stack Development.
 
 ⚡ Fun Fact:
