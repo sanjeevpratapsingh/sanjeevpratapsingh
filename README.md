@@ -1,21 +1,58 @@
-### Sanjeev Pratap Singh 👋
+# Hi, I'm Sanjeev Pratap Singh 👋
 
-🔭 I’m currently working as a Freelancer. <br />
-🌱 I’m currently learning Full Stack Development.
+🎯 **Full-Stack Web Developer | SaaS Enthusiast**  
+🌐 Building modern, user-centric web applications with React.js, Next.js, and WordPress.
 
-⚡ Fun Fact:
+---
 
-<!--
-**sanjeevpratapsingh/sanjeevpratapsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ **About Me**
 
-Here are some ideas to get you started:
+- 🚀 Over **7 years of experience** in web development, freelancing, and delivering over 100+ websites globally.
+- 💡 Passionate about **frontend development**, SaaS solutions, and modern JavaScript frameworks.
+- 🌱 Currently expanding my expertise in **React.js/Next.js** while developing from Simple Websites to E-commerce and now focusing on building a a SaaS tool.
+- 📝 Sharing web development tips on [LinkedIn](https://www.linkedin.com/in/sanjeevpratapsingh/) and growing my professional network.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 **Tech Stack**
+
+### **Frontend**
+- React.js, Next.js, Tailwind CSS, JavaScript (ES6+), HTML5, CSS3, SASS, Bootstrap
+
+### **Backend**
+- Node.js, Express.js, RESTful APIs, MongoDB
+
+### **CMS**
+- WordPress, Shopify, Wix
+
+### **Tools**
+- Figma, Adobe XD, Postman, Webpack, Docker, Jest, Mocha
+
+### **Cloud & Hosting**
+- AWS, Vercel, Netlify
+
+---
+
+## 💼 **Professional Experience**
+
+### **Freelance Web Developer**
+📆 *2020 - Present*  
+- Delivered **100+ responsive, SEO-optimized websites** globally, ensuring high client satisfaction.  
+- Specialized in **React.js**, **Next.js**, and **WordPress** for custom solutions.  
+- Improved performance and user engagement for eCommerce clients.  
+
+## 📜 **Certifications**
+- JavaScript Algorithms and Data Structures – freeCodeCamp  
+- Advanced React – Udemy  
+
+
+---
+
+## 📢 **Let's Connect!**
+- **Email**: [sanjeevpratapsingh93@gmail.com](mailto:sanjeevpratapsingh93@gmail.com)  
+- **Portfolio**: [Coming Soon]  
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/sanjeevpratapsingh/)
+
+---
+
+🌟 *Open to collaborations and exciting opportunities in React.js and SaaS development.*  
