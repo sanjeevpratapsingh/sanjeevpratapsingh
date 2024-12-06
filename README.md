@@ -29,7 +29,7 @@
 - Figma, Adobe XD, Postman, Webpack, Docker, Jest, Mocha
 
 ### **Cloud & Hosting**
-- AWS, Vercel, Netlify
+- Hands-on experience in deployment AWS, Vercel, Netlify, Cloudways, Hostinger, Digital Ocean, A2Hosting, Siteground and Many More
 
 ---
 
